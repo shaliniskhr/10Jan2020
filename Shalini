@@ -1,0 +1,47 @@
+shalini.sekhar@accenture.com
+
+
+1. d.	Automate all possible activities within a project.
+
+2.b.	Patrick Debois
+
+3.c.	Kohsuke Kawaguchi
+
+4.c.	Jenkins originated from Hudson
+
+5.a.	JDK or JRE  version 1.8
+  d.	Apache Tomcat Server
+
+6.b.	Git provides plugins for Continuous Integration
+  d.	Git Server provides web-hooks for invoking call back functions which can be used by Jenkins to trigger automatic jobs
+  
+7.  b.	GitHub plugin installed on Jenkins
+   
+8.c.	Software Components and their dependency issues
+
+9.b.	http://your-jenkins-URL-with-port/github-webhook/
+  c.	http://your-jenkins-URL-with-port/jobname/github-webhook/
+  
+10.a.	 -p 8080:80
+
+11.c.	“run” command will run a stopped container while “start” will spin a new container
+
+12.a.	Ensure that Jenkins is running full capacity jobs
+
+13.a.	Jenkins User needs to be have appropriate privileges to run applications
+   b.	Jenkins User needs to have correct folder permissions
+   
+14.a.	A bunch of jobs that listen to the same message queue
+   c.	A set of Jobs which define a certain workflow & dependency   
+   
+ 15.b.	A bunch of docker containers running on a single powerful host
+    c.	A cluster of docker hosts or nodes which are connected   
+    
+ 16.c.	It’s a Jenkins Server running on low configuration node
+ 
+ 17.a.	Subversion (SVN)
+    b.	Git
+ 18.b.	M2_HOME
+    d.	JAVA_HOME   
+ 19. b.	docker volume create volume_name
+ 20.d.	Docker plugin
